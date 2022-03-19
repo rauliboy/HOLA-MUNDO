@@ -1,0 +1,20 @@
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.exe.config
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.exe
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.pdb
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA_MUNDO.Form1.resources
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA_MUNDO.Properties.Resources.resources
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.exe
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.pdb
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.exe.config
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.exe
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\bin\Debug\HOLA MUNDO.pdb
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csprojAssemblyReference.cache
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA_MUNDO.Form1.resources
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA_MUNDO.Properties.Resources.resources
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csproj.GenerateResource.cache
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.csproj.CoreCompileInputs.cache
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.exe
+C:\Users\PC\OneDrive\Escritorio\HOLA MUNDO\EJEMPLO HOLA MUNDO\HOLA MUNDO\obj\Debug\HOLA MUNDO.pdb
